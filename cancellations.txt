@@ -1,0 +1,24 @@
+----- Booking Cancelled -----
+Guest Name : Mia Santos
+Room Number: 22
+Room Type  : Double
+Nights     : 9
+Refund     : P0
+-------------------------------
+
+----- Booking Cancelled -----
+Guest Name : Liam Cruz
+Room Number: 61
+Room Type  : Suite
+Nights     : 5
+Refund     : P0
+-------------------------------
+
+----- Booking Cancelled -----
+Guest Name : Harper De Leon
+Room Number: 83
+Room Type  : Deluxe
+Nights     : 2
+Refund     : P0
+-------------------------------
+

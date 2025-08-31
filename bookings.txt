@@ -1,0 +1,13 @@
+RoomNo|GuestName|Contact|Email|RoomType|Nights
+1|Olivia Martinez|0917-543-2101|oliviamartinez@gmail.com|Single|2
+21|Ethan Rivera|0920-876-3452|ethanrivera@gmail.com|Double|1
+41|Sophia Tan|0918-234-5678|sophia.tan12@gmail.com|Twin|3
+81|Isabella Reyes|0919-987-6543|isable_reyes34@gmail.com|Deluxe|1
+2|Noah Lopez|0922-112-3344|noahlopez@gmail.com|Single|3
+42|James Navarro|0920-998-1122|jamesnavarro@gmail.com|Twin|2
+62|Emma Villanueva|0918-667-8899|emmavillanueva@gmail.com|Suite|5
+82|Alexander Cruz|0921-223-4455|alex.cruz29@gmail.com|Deluxe|4
+3|Ava Mendoza|0919-334-5566|avamendoza@gmail.com|Single|4
+23|William Garcia|0922-778-9900|williamgarcia@gmail.com|Double|2
+43|Charlotte Ramos|0917-889-0011|charlotteramos@gmail.com|Twin|4
+63|Benjamin Torres|0920-445-6677|benjamintorres@gmail.com|Suite|7

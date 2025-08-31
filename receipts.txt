@@ -1,0 +1,255 @@
+----- Booking Receipt -----
+Receipt ID : 20250831-R1-0001
+Guest Name : Olivia Martinez
+Contact No.: 0917-543-2101
+Email      : oliviamartinez@gmail.com
+Room Number: 1
+Room Type  : Single
+Adults     : 1 | Kids: 0
+Check-in   : 01/09/2025
+Check-out  : 03/09/2025
+Nights     : 2
+Rate/Night : P1400
+Total Paid : P2800
+Cash Given : P2800
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R21-0002
+Guest Name : Ethan Rivera
+Contact No.: 0920-876-3452
+Email      : ethanrivera@gmail.com
+Room Number: 21
+Room Type  : Double
+Adults     : 2 | Kids: 0
+Check-in   : 02/09/2025
+Check-out  : 03/09/2025
+Nights     : 1
+Rate/Night : P2300
+Total Paid : P2300
+Cash Given : P2300
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R41-0003
+Guest Name : Sophia Tan
+Contact No.: 0918-234-5678
+Email      : sophia.tan12@gmail.com
+Room Number: 41
+Room Type  : Twin
+Adults     : 2 | Kids: 0
+Check-in   : 03/09/2025
+Check-out  : 06/09/2025
+Nights     : 3
+Rate/Night : P2500
+Total Paid : P7500
+Cash Given : P8000
+Change     : P500
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R61-0004
+Guest Name : Liam Cruz
+Contact No.: 0921-345-6789
+Email      : iamliamcruz@gmail.com
+Room Number: 61
+Room Type  : Suite
+Adults     : 1 | Kids: 3
+Check-in   : 04/09/2025
+Check-out  : 09/09/2025
+Nights     : 5
+Rate/Night : P4500
+Total Paid : P22500
+Cash Given : P23000
+Change     : P500
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R81-0005
+Guest Name : Isabella Reyes
+Contact No.: 0919-987-6543
+Email      : isable_reyes34@gmail.com
+Room Number: 81
+Room Type  : Deluxe
+Adults     : 3 | Kids: 1
+Check-in   : 05/09/2025
+Check-out  : 06/09/2025
+Nights     : 1
+Rate/Night : P6000
+Total Paid : P6000
+Cash Given : P6000
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R2-0006
+Guest Name : Noah Lopez
+Contact No.: 0922-112-3344
+Email      : noahlopez@gmail.com
+Room Number: 2
+Room Type  : Single
+Adults     : 1 | Kids: 0
+Check-in   : 06/09/2025
+Check-out  : 09/09/2025
+Nights     : 3
+Rate/Night : P1400
+Total Paid : P4200
+Cash Given : P4500
+Change     : P300
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R22-0007
+Guest Name : Mia Santos
+Contact No.: 0917-556-7788
+Email      : miasantos@gmail.com
+Room Number: 22
+Room Type  : Double
+Adults     : 1 | Kids: 1
+Check-in   : 07/09/2025
+Check-out  : 16/09/2025
+Nights     : 9
+Rate/Night : P2300
+Total Paid : P20700
+Cash Given : P21000
+Change     : P300
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R42-0008
+Guest Name : James Navarro
+Contact No.: 0920-998-1122
+Email      : jamesnavarro@gmail.com
+Room Number: 42
+Room Type  : Twin
+Adults     : 1 | Kids: 1
+Check-in   : 08/09/2025
+Check-out  : 10/09/2025
+Nights     : 2
+Rate/Night : P2500
+Total Paid : P5000
+Cash Given : P5000
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R62-0009
+Guest Name : Emma Villanueva
+Contact No.: 0918-667-8899
+Email      : emmavillanueva@gmail.com
+Room Number: 62
+Room Type  : Suite
+Adults     : 2 | Kids: 2
+Check-in   : 09/09/2025
+Check-out  : 14/09/2025
+Nights     : 5
+Rate/Night : P4500
+Total Paid : P22500
+Cash Given : P22500
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R82-0010
+Guest Name : Alexander Cruz
+Contact No.: 0921-223-4455
+Email      : alex.cruz29@gmail.com
+Room Number: 82
+Room Type  : Deluxe
+Adults     : 1 | Kids: 3
+Check-in   : 10/09/2025
+Check-out  : 14/09/2025
+Nights     : 4
+Rate/Night : P6000
+Total Paid : P24000
+Cash Given : P24000
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R3-0011
+Guest Name : Ava Mendoza
+Contact No.: 0919-334-5566
+Email      : avamendoza@gmail.com
+Room Number: 3
+Room Type  : Single
+Adults     : 1 | Kids: 0
+Check-in   : 11/09/2025
+Check-out  : 15/09/2025
+Nights     : 4
+Rate/Night : P1400
+Total Paid : P5600
+Cash Given : P6000
+Change     : P400
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R23-0012
+Guest Name : William Garcia
+Contact No.: 0922-778-9900
+Email      : williamgarcia@gmail.com
+Room Number: 23
+Room Type  : Double
+Adults     : 1 | Kids: 1
+Check-in   : 12/09/2025
+Check-out  : 14/09/2025
+Nights     : 2
+Rate/Night : P2300
+Total Paid : P4600
+Cash Given : P4600
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R43-0013
+Guest Name : Charlotte Ramos
+Contact No.: 0917-889-0011
+Email      : charlotteramos@gmail.com
+Room Number: 43
+Room Type  : Twin
+Adults     : 2 | Kids: 0
+Check-in   : 13/09/2025
+Check-out  : 17/09/2025
+Nights     : 4
+Rate/Night : P2500
+Total Paid : P10000
+Cash Given : P10000
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R63-0014
+Guest Name : Benjamin Torres
+Contact No.: 0920-445-6677
+Email      : benjamintorres@gmail.com
+Room Number: 63
+Room Type  : Suite
+Adults     : 2 | Kids: 1
+Check-in   : 14/09/2025
+Check-out  : 21/09/2025
+Nights     : 7
+Rate/Night : P4500
+Total Paid : P31500
+Cash Given : P31500
+Change     : P0
+-----------------------------
+
+----- Booking Receipt -----
+Receipt ID : 20250831-R83-0015
+Guest Name : Harper De Leon
+Contact No.: 0918-556-7788
+Email      : harper.deleon132@gmail.com
+Room Number: 83
+Room Type  : Deluxe
+Adults     : 2 | Kids: 1
+Check-in   : 15/09/2025
+Check-out  : 17/09/2025
+Nights     : 2
+Rate/Night : P6000
+Total Paid : P12000
+Cash Given : P12000
+Change     : P0
+-----------------------------
+
